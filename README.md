@@ -8,6 +8,10 @@
 📈 I’m exploring innovative possibilities with **Machine Learning and AI**.  
 💬 Ask me about working on creative projects like **No Code Web Apps** and **photography**.
 
+
+🗃️ See my work Here: https://deepthakur.vercel.app/
+
+
 ---
 
 ## 🌐 Connect with Me:
