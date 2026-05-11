@@ -1,14 +1,23 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Hi%2C%20I'm%20Deep%20Thakur%20👋&fontSize=60&fontAlign=50&fontAlignY=40&animation=twinkling" />
 </p>
+## 💫 About Me
 
-## 💫 About Me:
-📲 I’m currently crafting intuitive and feature-rich mobile applications with **React Native**.  
-🤝 I’m looking for help with **developing open-source projects** and contributing to exciting repositories.  
-📈 I’m exploring innovative possibilities with **Machine Learning and AI**.  
-💬 Ask me about working on creative projects like **No Code Web Apps** and **photography**.
+📱 Passionate **React Native Developer** focused on building intuitive, scalable, and feature-rich mobile applications with clean UI/UX and high performance.  
 
+💻 Currently pursuing **B.E. in Computer Engineering** while strengthening my expertise in **Mobile App Development, Data Structures & Algorithms, and Software Engineering**.  
 
+🚀 Actively building projects using **React Native, JavaScript, TypeScript, Expo, and modern frontend technologies** to solve real-world problems.  
+
+🤝 Interested in contributing to **Open Source Projects**, collaborating with developers, and working on impactful repositories.  
+
+🧠 Exploring the world of **Artificial Intelligence, Machine Learning, and Agentic AI Systems** to create smart and innovative applications.  
+
+🛠️ Love building creative tech products including **No-Code Web Apps, Productivity Tools, and AI-powered Applications**.  
+
+📚 Constantly learning and improving problem-solving skills while preparing for **Software Development roles**.  
+
+💬 Ask me about **React Native, JavaScript, Mobile App Development, Creative Projects, and Photography**.
 🗃️ See my work Here: https://deepthakur.vercel.app/
 
 
