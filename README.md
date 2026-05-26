@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Hi%2C%20I'm%20Deep%20Thakur%20👋&fontSize=60&fontAlign=50&fontAlignY=40&animation=twinkling" />
 </p>
-## 💫 About Me
+ 💫 About Me
 
 📱 Passionate **React Native Developer** focused on building intuitive, scalable, and feature-rich mobile applications with clean UI/UX and high performance.  
 
