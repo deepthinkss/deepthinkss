@@ -13,7 +13,7 @@
 
 🤝 Open to Open Source Contributions, Collaborations, and Software Development Opportunities.
 
-🌐 Portfolio: deepthakur.vercel.app
+🌐**Portfolio:** [Visit My Portfolio](https://deepthakur.vercel.app/)
 ---
 
 ## 🌐 Connect with Me:
