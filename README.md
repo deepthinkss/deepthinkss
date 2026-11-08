@@ -1,11 +1,11 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Hi%2C%20I'm%20Deep%20Thakur%20👋&fontSize=60&fontAlign=50&fontAlignY=40&animation=twinkling" />
 </p>
-💫 About Me
+💫 𝐀𝐛𝐨𝐮𝐭 𝐌𝐞
 
 💻 Computer Engineering student passionate about building scalable software and intelligent applications.
 
-🚀 Aspiring Software Developer & AI Engineer with hands-on experience in React Native, JavaScript, TypeScript, and modern development technologies.
+🚀 Aspiring **Software Developer & AI Engineer** with hands-on experience in React Native, JavaScript, TypeScript, and modern development technologies.
 
 🧠 Exploring Artificial Intelligence, Machine Learning, and Agentic AI to build innovative, real-world solutions.
 
@@ -13,7 +13,7 @@
 
 🤝 Open to Open Source Contributions, Collaborations, and Software Development Opportunities.
 
-🌐**Portfolio:** [Visit My Portfolio](https://deepthakur.vercel.app/)
+🌐 **Portfolio:** [Visit My Portfolio](https://deepthakur.vercel.app/)
 ---
 
 ## 🌐 Connect with Me:
