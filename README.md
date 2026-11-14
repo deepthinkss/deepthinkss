@@ -1,6 +1,8 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Hi%2C%20I'm%20Deep%20Thakur%20👋&fontSize=60&fontAlign=50&fontAlignY=40&animation=twinkling" />
 </p>
+
+
 💫 𝐀𝐛𝐨𝐮𝐭 𝐌𝐞
 
 💻 Computer Engineering student passionate about building scalable software and intelligent applications.
